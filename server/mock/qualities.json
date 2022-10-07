@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471198",
+    "name": "Собака",
+    "color": "primary"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471100",
+    "name": "Птицы",
+    "color": "secondary"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711012",
+    "name": "Грызуны",
+    "color": "success"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471101",
+    "name": "Кошки",
+    "color": "danger"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471102",
+    "name": "Рыбки",
+    "color": "info"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471103",
+    "name": "Рептилии",
+    "color": "dark"
+  }
+]

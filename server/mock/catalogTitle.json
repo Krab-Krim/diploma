@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "url": "/catalog/dog",
+    "title": "СОБАКИ",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_1.jpg"
+  },
+  {
+    "id": 2,
+    "url": "/catalog/cat",
+    "title": "КОШКИ",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_2.jpg"
+  },
+  {
+    "id": 3,
+    "url": "/catalog/fish",
+    "title": "РЫБКИ",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "ПТИЦЫ",
+    "url": "/catalog/bird",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "ГРЫЗУНЫ",
+    "url": "/catalog/rodent",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_5.jpg"
+  },
+  {
+    "id": 6,
+    "url": "/catalog/reptiles",
+    "title": "РЕПТИЛИИ",
+    "img": "https://static.insales-cdn.com/assets/1/3693/1412717/1594580717/block_img_6.jpg"
+  }
+]

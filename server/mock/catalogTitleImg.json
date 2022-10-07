@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "url": "/catalog/dog",
+    "title": "СОБАКИ",
+    "img": "https://img.freepik.com/free-photo/side-view-of-obedient-dog-sitting-over-white-background_23-2147840968.jpg"
+  },
+  {
+    "id": 2,
+    "url": "/catalog/cat",
+    "title": "КОШКИ",
+    "img": "https://funart.pro/uploads/posts/2021-04/1618221932_42-p-kotenok-na-belom-fone-zhivotnie-krasivo-fo-51.jpg"
+  },
+  {
+    "id": 3,
+    "url": "/catalog/fish",
+    "title": "РЫБКИ",
+    "img": "https://st.depositphotos.com/2689985/4669/i/600/depositphotos_46695343-stock-photo-fighting-fish.jpg"
+  },
+  {
+    "id": 4,
+    "title": "ПТИЦЫ",
+    "url": "/catalog/bird",
+    "img": "https://abrakadabra.fun/uploads/posts/2021-12/1639396292_3-abrakadabra-fun-p-popugai-bez-fona-7.png"
+  },
+  {
+    "id": 5,
+    "title": "ГРЫЗУНЫ",
+    "url": "/catalog/rodent",
+    "img": "https://www.1zoom.me/big2/17/116877-jugra.jpg"
+  },
+  {
+    "id": 6,
+    "url": "/catalog/reptiles",
+    "title": "РЕПТИЛИИ",
+    "img": "https://www.fresher.ru/mary/4-2019/ocharovatelnye-reptilii-na-belom-fone/7.jpg"
+  }
+]
